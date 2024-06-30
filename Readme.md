@@ -1,3 +1,4 @@
+!(The Rip Drive Project Banner)[./Images/banner.jpg]
 # The Rip Drive Project
 
 Welcome to The Rip Drive Project.
