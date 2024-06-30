@@ -1,4 +1,6 @@
-!(The Rip Drive Project Banner)[./Images/banner.jpg]
+
+![banner](https://github.com/ripdrive/ripdrive/assets/70611435/e85b0d24-2a86-42b6-82cc-fcf23a5dcc44)
+
 # The Rip Drive Project
 
 Welcome to The Rip Drive Project.
