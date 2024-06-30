@@ -1,5 +1,5 @@
 
-![banner](https://github.com/ripdrive/ripdrive/assets/70611435/e85b0d24-2a86-42b6-82cc-fcf23a5dcc44)
+![banner](https://github.com/ripdrive/ripdrive/assets/70611435/fe24921c-1c8c-407a-8d49-da40964bd624)
 
 # The Rip Drive Project
 
