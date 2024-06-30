@@ -37,8 +37,8 @@ In the prequel era, a group of about a thousand researchers and explorers go on 
     - Describe your changes in the PR and submit it for review.
 ### Method 2 (for long-term contributors):
 
-> [!NOTE] Download the Software
-> Download [Obsidian](https://obsidian.md/download) and [Git](https://git-scm.com/downloads) if you don't have them installed.
+> [!NOTE]
+> You will need to download [Obsidian](https://obsidian.md/download) and [Git](https://git-scm.com/downloads) if you don't have them installed.
 
 1. **Fork the Repository**: Start by forking this repository to your own GitHub account.
 
