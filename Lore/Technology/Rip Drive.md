@@ -1,0 +1,3 @@
+A rip drive is a huge external engine that can rip the fabric of space to make a hole for ships to pass through. The universe gradually heals the rips over time, but more advanced rip drives can stitch them back together. Early experimental rip drives make jagged tears while more polished ones can make a smooth hole that matches the shape of the ship. 
+
+[[Nathan Altrand]] created the rip drive to power a huge research ship.
