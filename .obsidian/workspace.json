@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "5ad46cae929fcd80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Locations/The Station.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Locations/The Station.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Locations/The Station.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lore/Locations/The Station.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,9 +154,10 @@
   },
   "active": "8988ac5c135840ab",
   "lastOpenFiles": [
+    "Lore/Characters/Logan Cameronson.md",
+    "Lore/Locations/The Station.md",
     "Lore/Locations/Pargold.md",
     "Lore/Technology/Matter Converter.md",
-    "Lore/Characters/Logan Cameronson.md",
     "Lore/Characters/Christian Cameronson.md",
     "Lore/Factions/Pargold Mining Corporation.md",
     "Lore/Characters/Michael Pargold.md",
@@ -183,7 +167,6 @@
     "Lore/Characters/Callie Cameronson.md",
     "Readme.md",
     "Contribution Guidelines.md",
-    "Lore/Locations/The Station.md",
     "2024-07-10.md",
     "index.md",
     "Lore/Technology/Rip Drive.md",
