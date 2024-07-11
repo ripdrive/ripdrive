@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Parents": "multitext",
+    "Siblings": "multitext",
+    "Children": "multitext"
+  }
+}

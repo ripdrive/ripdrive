@@ -4,42 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "90879be8a6b3bb80",
+        "id": "94a15ca5759145da",
         "type": "tabs",
         "children": [
           {
-            "id": "d4242fd0bf92d6a5",
+            "id": "02326ba37bae5b52",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Characters/Logan Cameronson.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5ad46cae929fcd80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Lore/Locations/The Station.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b3d82da039790521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Technology/Rip Drive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85e1e098dcd7a447",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Lore/Locations/The Station.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Lore/Locations/The Station.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Lore/Locations/The Station.md"
               }
             }
           },
@@ -170,22 +165,33 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4242fd0bf92d6a5",
+  "active": "8988ac5c135840ab",
   "lastOpenFiles": [
-    "Readme.md",
-    "Lore/Locations/The Station.md",
+    "Lore/Locations/Pargold.md",
     "Lore/Technology/Matter Converter.md",
-    "Lore/Characters/Nathan Altrand.md",
-    "Lore/Technology/Rip Drive.md",
-    "Lore/Technology",
-    "Untitled.md",
-    "Lore/Locations",
-    "index.md",
+    "Lore/Characters/Logan Cameronson.md",
+    "Lore/Characters/Christian Cameronson.md",
+    "Lore/Factions/Pargold Mining Corporation.md",
+    "Lore/Characters/Michael Pargold.md",
+    "Lore/Factions/The Malthin Criminal Network.md",
+    "Lore/Factions",
+    "Lore/Characters/Mandi Cameronson.md",
+    "Lore/Characters/Callie Cameronson.md",
+    "Readme.md",
     "Contribution Guidelines.md",
+    "Lore/Locations/The Station.md",
+    "2024-07-10.md",
+    "index.md",
+    "Lore/Technology/Rip Drive.md",
+    "Callie.md",
+    "Lore/Characters/Nathan Altrand.md",
+    "Untitled.md",
+    "Lore/Technology",
+    "Lore/Locations",
     "().md",
     "Images/banner.jpg",
     "Images",

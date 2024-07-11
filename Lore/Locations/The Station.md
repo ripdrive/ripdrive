@@ -1,6 +1,6 @@
 A massive space station that much of humanity resides on. It has a population of 3 trillion due to its expandability. Many different civilizations live in and on the station- some of the lower ones unaware of the existence of other civilizations outside of legends. Others are less isolated but have little knowledge of the overall political landscape on the surface.
 
-The Station is large enough to hold its own atmosphere.
+The Station is large enough to hold its own atmosphere, so you can safely stand outside on the upper levels without extra oxygen.
 
 ## Expandability
 
