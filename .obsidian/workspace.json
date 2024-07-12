@@ -20,6 +20,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "a73ad41c657978c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Factions/Pargold Mining Corporation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -87,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lore/Characters/Logan Cameronson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lore/Characters/Logan Cameronson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lore/Characters/Logan Cameronson.md"
+              }
             }
           },
           {
@@ -152,26 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8988ac5c135840ab",
+  "active": "02326ba37bae5b52",
   "lastOpenFiles": [
-    "Lore/Characters/Logan Cameronson.md",
-    "Lore/Locations/The Station.md",
-    "Lore/Locations/Pargold.md",
-    "Lore/Technology/Matter Converter.md",
-    "Lore/Characters/Christian Cameronson.md",
     "Lore/Factions/Pargold Mining Corporation.md",
     "Lore/Characters/Michael Pargold.md",
+    "Lore/Characters/Nathan Altrand.md",
+    "Lore/Locations/Pargold.md",
+    "Lore/Technology/Matter Converter.md",
+    "index.md",
+    "Readme.md",
+    "Lore/Characters/Logan Cameronson.md",
+    "Lore/Locations/The Station.md",
+    "Lore/Characters/Christian Cameronson.md",
     "Lore/Factions/The Malthin Criminal Network.md",
     "Lore/Factions",
     "Lore/Characters/Mandi Cameronson.md",
     "Lore/Characters/Callie Cameronson.md",
-    "Readme.md",
     "Contribution Guidelines.md",
     "2024-07-10.md",
-    "index.md",
     "Lore/Technology/Rip Drive.md",
     "Callie.md",
-    "Lore/Characters/Nathan Altrand.md",
     "Untitled.md",
     "Lore/Technology",
     "Lore/Locations",
