@@ -8,6 +8,17 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2e35b8e2f449ac28",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "index.md",
+                "staged": false
+              }
+            }
+          },
+          {
             "id": "02326ba37bae5b52",
             "type": "leaf",
             "pinned": true,
@@ -19,18 +30,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "a73ad41c657978c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Factions/Pargold Mining Corporation.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -99,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Characters/Logan Cameronson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Characters/Logan Cameronson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lore/Characters/Logan Cameronson.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,23 +163,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02326ba37bae5b52",
+  "active": "2e35b8e2f449ac28",
   "lastOpenFiles": [
+    "index.md",
+    "Lore/Characters/Logan Cameronson.md",
     "Lore/Factions/Pargold Mining Corporation.md",
+    "Readme.md",
+    "Contribution Guidelines.md",
+    "Lore/Locations/The Station.md",
     "Lore/Characters/Michael Pargold.md",
     "Lore/Characters/Nathan Altrand.md",
     "Lore/Locations/Pargold.md",
     "Lore/Technology/Matter Converter.md",
-    "index.md",
-    "Readme.md",
-    "Lore/Characters/Logan Cameronson.md",
-    "Lore/Locations/The Station.md",
     "Lore/Characters/Christian Cameronson.md",
     "Lore/Factions/The Malthin Criminal Network.md",
     "Lore/Factions",
     "Lore/Characters/Mandi Cameronson.md",
     "Lore/Characters/Callie Cameronson.md",
-    "Contribution Guidelines.md",
     "2024-07-10.md",
     "Lore/Technology/Rip Drive.md",
     "Callie.md",
