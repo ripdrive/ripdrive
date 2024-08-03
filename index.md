@@ -13,7 +13,7 @@ The Rip Drive Project is a Sci-fi universe centered around two kids whose parent
 In the prequel era, a group of about a thousand researchers and explorers go on an experimental "rip drive" ship and get stuck lightyears away from earth due to a mutiny on the ship that destroys the drive.
 
 
-> [!INFO] 
+> [!TIP] Want to Join us?
 > If you want to contribute, view our [[Contribution Guidelines]].
 
 ## Index
