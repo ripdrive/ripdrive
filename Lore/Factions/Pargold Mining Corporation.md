@@ -7,7 +7,7 @@ The Pargold Mining Corporation was a government with the structure of a corporat
 
 ## Origins
 
-It was started by a young ambitious entrepreneur and philanthropist named [[Michael Pargold]] with the purpose strip-mining of the uninhabitable planet [[Pargold]] (which was named after him. However, the corporation soon ballooned into a having a much larger role when they expanded into construction, and then started providing protection for the citizens who resided in their areas of [[The Station]]. 
+It was started by a young ambitious entrepreneur and philanthropist named [[Michael Pargold]] with the purpose of strip-mining the uninhabitable planet [[Pargold]] (which was named after him. However, the corporation soon ballooned into a having a much larger role when they expanded into construction, and then started providing protection for the citizens who resided in their areas of [[The Station]]. 
 
 ## Becoming a Government
 
