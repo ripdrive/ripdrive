@@ -20,24 +20,24 @@ In the prequel era, a group of about a thousand researchers and explorers go on 
 
 ### Characters 
 
-[[Logan Cameronson]]
-[[Callie Cameronson]]
-[[Christian Cameronson]]
-[[Mandi Cameronson]]
-[[Michael Pargold]]
-[[Nathan Altrand]]
+- [[Logan Cameronson]]
+- [[Callie Cameronson]]
+- [[Christian Cameronson]]
+- [[Mandi Cameronson]]
+- [[Michael Pargold]]
+- [[Nathan Altrand]]
 
 ### Locations
 
-[[The Station]]
-[[Pargold]]
+- [[The Station]]
+- [[Pargold]]
 
 ### Factions
 
-[[Pargold Mining Corporation]]
-[[The Malthin Criminal Network]]
+- [[Pargold Mining Corporation]]
+- [[The Malthin Criminal Network]]
 
 ### Technology 
 
-[[Rip Drive]]
-[[Matter Converter]]
+- [[Rip Drive]]
+- [[Matter Converter]]
