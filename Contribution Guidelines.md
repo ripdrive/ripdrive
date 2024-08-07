@@ -1,10 +1,14 @@
+
+> [!TIP]
+> If you have questions, ideas, or want to discuss anything related to The Rip Drive Project, feel free to [open an issue](https://github.com/ripdrive/ripdrive/issues/new) or join our community discussions.
+
 ## How to Contribute
 
 ### Method 1 (for beginners):
 
 1. **Navigate to the File**:
     
-    - Go to the file you want to edit within your repository.
+    - Go to the file you want to edit within [the repository](https://github.com/ripdrive/ripdrive) on GitHub.
     - Click on the file name to open it.
 
 2. **Edit the Content**:
@@ -55,6 +59,3 @@
 - **Be Consistent**: Follow the existing structure and conventions. Consistency makes navigation easier for everyone.
 - **Link Sources**: If you’re referencing other existing material, provide proper links using Obsidian's internal link format: `[[Example Link]]`
 - **Respect the Lore**: Our universe has its rules and lore. Ensure your contributions align with the established canon.
-
-> [!TIP]
-> If you have questions, ideas, or want to discuss anything related to The Rip Drive Project, feel free to open an issue or join our community discussions.
