@@ -1,0 +1,1 @@
+The Rip Drive Ship was built by [[Nathan Altrand]] to house his first large scale [[Rip Drive]].

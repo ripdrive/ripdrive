@@ -1,22 +1,58 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "-index -readme -guidelines",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#evil  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711731
+      }
+    },
+    {
+      "query": "tag:female",
+      "color": {
+        "a": 1,
+        "rgb": 13323700
+      }
+    },
+    {
+      "query": "tag:male",
+      "color": {
+        "a": 1,
+        "rgb": 2719953
+      }
+    },
+    {
+      "query": "path:technology OR path:Lore/Vehicles  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#faction  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6289793230612338,
+  "collapse-forces": false,
+  "centerStrength": 0.3046875,
+  "repelStrength": 13.3854166666667,
+  "linkStrength": 0.856770833333333,
+  "linkDistance": 30,
+  "scale": 0.2282486518905494,
   "close": true
 }

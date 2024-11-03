@@ -5,3 +5,7 @@ The Station is large enough to hold its own atmosphere, so you can safely stand 
 ## Expandability
 
 The progress of the station would not be possible without [[Matter Converter]]s. These are devices which can convert the mass of an object into another form. They do have limits on what can be obtained from them however, so there are many valuable materials such as gold that still need to be to be mined from asteroids or uninhabitable planets.
+
+## Legends
+
+One legend is that the station was built on top of the original [[Rip Drive Ship]].

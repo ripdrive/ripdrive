@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"a26431963a56e1ac","type":"file","file":"Lore/Factions/The Malthin Criminal Network.md","x":600,"y":-500,"width":360,"height":100},
+		{"id":"e776d379e2ecf33f","type":"file","file":"Lore/Factions/Pargold Mining Corporation.md","x":20,"y":-500,"width":340,"height":100},
+		{"id":"0dbf2822e424496d","type":"text","text":"Malthin Leader","x":655,"y":-700,"width":250,"height":60},
+		{"id":"f05763504c2c16b9","type":"text","text":"An agent working for the [[Pargold Mining Corporation]] was the older cousin of [[Callie Cameronson]] and and [[Logan Cameronson]]. ","x":485,"y":-900,"width":375,"height":140},
+		{"id":"b84fa0a68f104cc5","type":"file","file":"Lore/Characters/Michael Pargold.md","x":80,"y":-700,"width":350,"height":60}
+	],
+	"edges":[
+		{"id":"e7ec07dba7152fce","fromNode":"e776d379e2ecf33f","fromSide":"right","toNode":"a26431963a56e1ac","toSide":"left","fromEnd":"arrow","label":"Enemies"},
+		{"id":"b466bf9cbd27618c","fromNode":"0dbf2822e424496d","fromSide":"bottom","toNode":"a26431963a56e1ac","toSide":"top","label":"Leader"},
+		{"id":"7aac6f83e59ca395","fromNode":"b84fa0a68f104cc5","fromSide":"bottom","toNode":"e776d379e2ecf33f","toSide":"top","label":"Leader"}
+	]
+}
