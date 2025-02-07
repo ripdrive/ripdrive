@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "935a27c2975c0d20",
+        "id": "b82ad1bb7c38d303",
         "type": "tabs",
         "children": [
           {
-            "id": "d540a7db302a886d",
+            "id": "c8cf0d64970895f9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/core-plugins.json",
-                "staged": true
+                "file": "Lore/Characters/Lellia Pargold.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (core-plugins.json)"
+              "icon": "lucide-file",
+              "title": "Lellia Pargold"
             }
           }
         ]
@@ -35,7 +46,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -47,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:female",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -80,6 +92,20 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "84817d3a310d547f",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
       }
     ],
     "currentTab": 0
@@ -94,6 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Lore/Locations/The Station.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Lore/Locations/The Station.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -124,7 +152,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "Lore/Locations/The Station.md"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
@@ -137,6 +167,18 @@
           "state": {},
           "icon": "git-pull-request",
           "title": "Source Control"
+        }
+      },
+      {
+        "id": "632d914d4c86cd86",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "Lore/Characters/Mandi Cameronson.md"
+          },
+          "icon": "lucide-info",
+          "title": "File properties"
         }
       }
     ],
@@ -152,6 +194,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d540a7db302a886d",
-  "lastOpenFiles": []
+  "active": "c8cf0d64970895f9",
+  "lastOpenFiles": [
+    "Lore/Characters/Lellia Pargold.md",
+    "Lore/Characters/Characters.md",
+    "Lore/Factions/Factions.canvas",
+    "Lore/Technology/Matter Converter.md",
+    "Lore/Locations/Pargold.md",
+    "Lore/Factions/Pargold Mining Corporation.md",
+    "Lore/Factions/The Malthin Criminal Network.md",
+    "Lore/Characters/Callie Cameronson.md",
+    "Lore/Characters/Christian Cameronson.md",
+    "Lore/Characters/Nathan Altrand.md",
+    "Lore/Characters/Mandi Cameronson.md",
+    "Lore/Characters/Logan Cameronson.md",
+    "Lore/Locations/The Station.md",
+    "Lore/Characters/Michael Pargold.md",
+    "2024-12-12.md"
+  ]
 }

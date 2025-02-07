@@ -5,6 +5,9 @@
     "tags": "tags",
     "Parents": "multitext",
     "Siblings": "multitext",
-    "Children": "multitext"
+    "Children": "multitext",
+    "Home": "multitext",
+    "Occupation": "multitext",
+    "Birth": "date"
   }
 }
